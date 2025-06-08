@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.Identity.Web;
 using Microsoft.Identity.Web.UI;
 
-//instantiating a build
+//instantiating the builder
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
