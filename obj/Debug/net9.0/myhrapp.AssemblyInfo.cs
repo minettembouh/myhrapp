@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myhrapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+101a62e924b9043ff2ece7a0ece405347fc68358")]
 [assembly: System.Reflection.AssemblyProductAttribute("myhrapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myhrapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
