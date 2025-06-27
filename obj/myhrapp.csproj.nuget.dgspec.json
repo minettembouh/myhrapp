@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj": {}
+    "c:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj": {
+    "c:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj",
+        "projectUniqueName": "c:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj",
         "projectName": "myhrapp",
-        "projectPath": "C:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj",
+        "projectPath": "c:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\myhrapp.csproj",
         "packagesPath": "C:\\Users\\mbouh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\obj\\",
+        "outputPath": "c:\\Users\\mbouh\\OneDrive\\Desktop\\Learning\\Security\\AzureADCourse\\myhrapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
